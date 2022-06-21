@@ -1,6 +1,7 @@
 # Screenshot
 
 ![image info](./src/img/screenshot.png)
+![image info](./src/img/screenshot2.png)
 
 # Getting Started with Create React App
 
