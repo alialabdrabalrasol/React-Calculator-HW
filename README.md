@@ -1,4 +1,4 @@
-# Screenshot
+# Screenshots
 
 ![image info](./src/img/screenshot.png)
 ![image info](./src/img/screenshot2.png)
